@@ -1,6 +1,6 @@
 <!-- Banner / Intro Section -->
 <h1 align="center">Hi 👋, I'm Remon Chandra Howlader</h1>
-<h3 align="center">Android Developer | Dart Enthusiast | Creative Designer</h3>
+<h3 align="center">Software Developer | Dart Enthusiast | Creative Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Creative+UI+Designer;Always+Learning+New+Things" />
