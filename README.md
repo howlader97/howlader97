@@ -426,7 +426,7 @@ Release 📱
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | https://yourportfolio.com |
+| 🌐 Portfolio | https://howlader97.github.io |
 | 💼 LinkedIn | https://linkedin.com/in/chremon1 |
 | 💻 GitHub | https://github.com/howlader97 |
 | 📧 Email | remonhowlader97@gmail.com |
