@@ -50,24 +50,6 @@ I always focus on writing **Clean Code**, building reusable components, and deli
 
 ---
 
-### 💬 Ask Me About
-
-```text
-Flutter
-Dart
-GetX
-Riverpod
-REST API
-Git
-GitHub
-CI/CD
-Firebase
-Clean Architecture
-Responsive UI
-```
-
----
-
 ### 📫 Contact
 
 📧 **Email**
