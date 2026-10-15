@@ -166,14 +166,6 @@ Bangladesh
 
 ---
 
-# ⚡ Fun Fact
-
-> 💙 I love transforming ideas into elegant mobile applications using Flutter.
-
----
-
-<div align="center">
-
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
