@@ -214,15 +214,6 @@ Bangladesh
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=howlader97&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
-
-</div>
-
----
 
 # 📌 Contribution Summary
 
@@ -238,16 +229,6 @@ Bangladesh
 | 🧩 Clean Architecture | ⭐⭐⭐⭐☆ |
 | 🚀 CI/CD | ⭐⭐⭐⭐☆ |
 | 🛠 Git & GitHub | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-# 📅 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0A66C2/howlader97" alt="GitHub Contribution Chart"/>
 
 </div>
 
