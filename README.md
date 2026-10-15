@@ -265,15 +265,6 @@ Bangladesh
 
 ---
 
-# 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
 
 # 📊 Coding Profile
 
@@ -372,42 +363,6 @@ Bangladesh
 - ✅ Learn Backend Development
 - ✅ Contribute to Open Source
 - ✅ Keep Learning Every Day
-
----
-
-# 🛠 Development Workflow
-
-```text
-Idea 💡
-
-    ↓
-
-Research 🔍
-
-    ↓
-
-UI Design 🎨
-
-    ↓
-
-Flutter Development 💙
-
-    ↓
-
-REST API 🔥
-
-    ↓
-
-Testing 🧪
-
-    ↓
-
-CI/CD 🚀
-
-    ↓
-
-Release 📱
-```
 
 ---
 
