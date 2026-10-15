@@ -396,19 +396,6 @@ If you enjoy my work and find my projects helpful,
 
 ---
 
-# 💬 Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the clean code."**
-
-— John Johnson
-
-</div>
-
----
-
-<div align="center">
 
 # Thanks for visiting my profile ❤️
 
