@@ -204,16 +204,6 @@ Bangladesh
 ---
 
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=howlader97&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 
 # 📌 Contribution Summary
 
@@ -280,35 +270,6 @@ Bangladesh
 <!--            PART 3 - PROJECTS & FOOTER                     -->
 <!-- ========================================================= -->
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/howlader97/GitHub-Repositories-Viewer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=howlader97&repo=GitHub-Repositories-Viewer&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/howlader97/flutter_weather_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=howlader97&repo=flutter_weather_app&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/howlader97/social-qr-share">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=howlader97&repo=social-qr-share&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/howlader97">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=howlader97&repo=YOUR_BEST_PROJECT&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 💼 What I Love Building
 
@@ -381,16 +342,6 @@ If you enjoy my work and find my projects helpful,
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,androidstudio"/>
-
-</div>
-
----
-
-# 📈 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=howlader97&style=for-the-badge&color=blue"/>
 
 </div>
 
