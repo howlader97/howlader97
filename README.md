@@ -263,29 +263,6 @@ Bangladesh
 <!-- ========================================================= -->
 
 
-# 💼 What I Love Building
-
-<div align="center">
-
-📱 Flutter Applications
-
-🎨 Pixel Perfect UI
-
-⚡ High Performance Apps
-
-🧩 Clean Architecture
-
-🔥 REST API Integration
-
-🚀 CI/CD Automation
-
-📦 Reusable Components
-
-🌐 Cross Platform Solutions
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
@@ -329,15 +306,6 @@ If you enjoy my work and find my projects helpful,
 
 ---
 
-# 💙 Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,androidstudio"/>
-
-</div>
-
----
 
 
 # Thanks for visiting my profile ❤️
