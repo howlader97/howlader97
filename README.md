@@ -198,18 +198,6 @@ Bangladesh
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **⚠️ Optional:** This animation works only if you create the required GitHub Action.
-
-<img src="https://raw.githubusercontent.com/howlader97/howlader97/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 
 # 📊 Coding Profile
 
